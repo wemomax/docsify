@@ -9,7 +9,7 @@
 [![downloads](https://img.shields.io/npm/dm/style-dictionary.svg?style=flat-square)](https://www.npmjs.com/package/style-dictionary)
 
 # DDS Soberano
-> *Ágil escalavel sem equipe de equipes.*
+> *Ágil escalável sem equipe de equipes.*
 
 **Desenvolvimento Distribuído de Software (DDS) Soberano** é uma uma metodologia de desenvolvimento de software ágil de forma distribuída, e escalável, que tem o propósito de orientar a coordenação de pessoas em ambientes totalmente virtuais e dinâmicos. Apesar de tratar de desenvolvimento de software, seu foco são as questões de coordenação das pessoas em ambientes virtuais.
 
