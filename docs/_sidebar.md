@@ -9,3 +9,4 @@
   - [Fluxo de Trabalho](FluxoTrabalho.md)
   - [Fluxo de Papéis](FluxoPapéis.md)
   - [Diretrizes de Comunicação](DiretrizesComunicação.md)
+  - [Perguntas Frequentes](PerguntasFrequentes.md)
